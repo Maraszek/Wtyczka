@@ -61,6 +61,7 @@ Przed użyciem wtyczki należy zaimportować odpowiednie warstwy ( u nas warstwa
 1. Wybranie z paska narzędzi opcji „Warstwa”.
 2. Następnie z rozwiniętego paska wybieranie opcji „Dodaj warstwę tekstową CSV”.
 3. Z zakładek zlokalizowanych po lewej stronie zakładek wybranie opcji „CSV” i zaimportowanie wybranej warstwy, po uprzednim zaznaczeniu w oknie „Format pliku” opcji Tab, Średnik, Przecinek.
+
 4.Kliknięcie opcji „Dodaj”. Zaimportowana warstwa powinna się znaleźć w oknie „Warstwy” znajdującym się po lewej stronie programu.
 
 Po zaimportowaniu warstw można sprawdzić działanie wtyczki.
