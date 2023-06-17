@@ -72,6 +72,7 @@ Chcąc obliczyć przewyższenia między 2 punktami, należy:
 W przypadku zaznaczenia na warstwie większej ilości punktów w oknie „Wynik” ukazuje się komunikat „Nieprawidłowa liczba punktów! Wybierz 2 punkty!”. Jest to spowodowane faktem, że wtyczka liczy przewyższenia między tylko 2 wybranymi punktami.
 
 W sytuacji, gdy użytkownik chce obliczyć pole powierzchni powinien:
+
 1 .Kliknąć w oknie wtyczki przycisk „Wyczyść okno”, tej opcji należy użyć, jeśli wyniki poprzednich obliczeń są widoczne w oknie wyników.
 2. Wybrać za pomocą opcji „Zaznacz obiekty” minimum 3 punkty z wybranej warstwy.
 3.Dokonać wyboru w jakiej jednostce pola chce otrzymać wynik i zaznaczyć wybraną, możliwe opcje:
