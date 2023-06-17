@@ -17,7 +17,7 @@ Spis treści
 
 Wtyczka posiada następujące funkcje:
 - Obliczanie pola powierzchni metodą Gaussa między co najmniej trzema
-  wybranymi punktami z możliwością wyboru jednostki pola (m2, hektary, ary)
+  wybranymi punktami, z możliwością wyboru jednostki pola (m2, hektary, ary)
 - Obliczanie przewyższenia między dwoma wybranymi punktami.
 - Wyświetlenie liczby zaznaczonych punktów.
 - Wyczyszczenie okna wynikowego.
