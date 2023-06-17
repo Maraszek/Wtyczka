@@ -22,8 +22,7 @@ Wtyczka posiada następujące funkcje:
 - Obliczanie przewyższenia między dwoma wybranymi punktami.
 - Wyświetlenie liczby zaznaczonych punktów.
 - Wyczyszczenie okna wynikowego.
-- 
-Jest to wtyczka przydatna głównie podczas prac geodezyjnych, znacznie ułatwia i przyspiesza proces obliczeniowy.
+- Jest to wtyczka przydatna głównie podczas prac geodezyjnych, znacznie ułatwia i przyspiesza proces obliczeniowy.
 
 
 =======================
