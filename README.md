@@ -73,14 +73,19 @@ W przypadku zaznaczenia na warstwie większej ilości punktów w oknie „Wynik�
 
 W sytuacji, gdy użytkownik chce obliczyć pole powierzchni powinien:
 
-1 .Kliknąć w oknie wtyczki przycisk „Wyczyść okno”, tej opcji należy użyć, jeśli wyniki poprzednich obliczeń są widoczne w oknie wyników.
+1.Kliknąć w oknie wtyczki przycisk „Wyczyść okno”, tej opcji należy użyć, jeśli wyniki poprzednich obliczeń są widoczne w oknie wyników.
+
 2. Wybrać za pomocą opcji „Zaznacz obiekty” minimum 3 punkty z wybranej warstwy.
+   
 3.Dokonać wyboru w jakiej jednostce pola chce otrzymać wynik i zaznaczyć wybraną, możliwe opcje:
 -metry kwadratowe
 -ary
 -hektary
+
 4. Kliknąć w oknie wtyczki przycisk  „Oblicz pole powierzchni”.
-5. Wynik obliczeń w wybranej jednostce jest widoczny w oknie wynikowym .
+   
+6. Wynik obliczeń w wybranej jednostce jest widoczny w oknie wynikowym .
+   
 W przypadku zaznaczenia zbyt małej liczby punktów ukaże się komunikat „ Nieprawidłowa liczba punktów! Wybierz minimum 3 punkty”
 
 Wtyczka daje również możliwość wykazania ile punktów z warstwy zostało zaznaczonych, służy do tego przycisk w oknie wtyczki „Pokaż liczbę zaznaczonych obiektów”. 
