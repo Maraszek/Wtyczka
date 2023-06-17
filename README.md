@@ -7,8 +7,7 @@ Spis treści
 2. Wymagania systemowe 
 3. Wymagane oprogramowanie 
 4. Instalacja i uruchomienie 
-5. Opis działania programu
-6. Wady programu
+5. Wady programu
 
 
 =======================
@@ -36,7 +35,9 @@ Program został napisany, z myślą o pracy na komputerach lub laptopach posiada
 3. Wymagane oprogramowanie 
 
 Do uruchomienia programu potrzebne będzie środowisko python w wersji 3.8
+
 Instalacja wtyczki wtyczki odbywa się w oprogramowaniu geoinformacyjnym Qgis wersja 3.22.6
+
 Wygląd zewnętrzny wtyczki został stworzony w programie Qt Designer
 
 
@@ -56,7 +57,7 @@ Wygląd zewnętrzny wtyczki został stworzony w programie Qt Designer
 
 Uruchomienie wtyczki:
 
-Przed użyciem wtyczki należy zaimportować odpowiednie warstwy ( u nas warstwa „xy2000” oraz „xy92”), w tym celu użytkownik wykonuje następujące kroki:
+Przed użyciem wtyczki należy zaimportować odpowiednie warstwy ( u nas warstwa „xy2000” oraz "xy92" ), w tym celu użytkownik wykonuje następujące kroki:
 
 1. Wybranie z paska narzędzi opcji „Warstwa”.
 2. Następnie z rozwiniętego paska wybieranie opcji „Dodaj warstwę tekstową CSV”.
@@ -66,7 +67,7 @@ Przed użyciem wtyczki należy zaimportować odpowiednie warstwy ( u nas warstwa
 
 Po zaimportowaniu warstw można sprawdzić działanie wtyczki.
 
-1 .Kliknięcie ikony wtyczki znajdującej na paska narzędzi
+1. Kliknięcie ikony wtyczki znajdującej na paska narzędzi
 Chcąc obliczyć przewyższenia między 2 punktami, należy:
 - wybrać za pomocą opcji „Zaznacz obiekty” tylko 2 punkty z wybranej warstwy 
 2. Wybranie w oknie wtyczki przycisk „ Oblicz przewyższenie” 
@@ -99,5 +100,6 @@ Ilość punktów zostaje pokazana w oknie wynikowym.
 
 =======================
 
-5. Wady programu
-
+5. Wady programu 
+-Wtyczka działa poprawnie przy jedenej aktywnej wartwie
+-Program nie działa na wszystkich wersjach qgisa i pythona
