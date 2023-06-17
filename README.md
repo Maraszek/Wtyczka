@@ -102,6 +102,6 @@ Ilość punktów zostaje pokazana w oknie wynikowym.
 
 5. Wady programu
    
--Wtyczka działa poprawnie przy jedenej aktywnej wartwie
+-Wtyczka działa poprawnie przy jednej aktywnej warstwie
 
 -Program działa w określonych wersjach qgisa i pythona
