@@ -104,4 +104,4 @@ Ilość punktów zostaje pokazana w oknie wynikowym.
    
 -Wtyczka działa poprawnie przy jedenej aktywnej wartwie
 
--Program nie działa na wszystkich wersjach qgisa i pythona
+-Program działa w określonych wersjach qgisa i pythona
