@@ -65,12 +65,16 @@ Przed użyciem wtyczki należy zaimportować odpowiednie warstwy ( u nas warstwa
 4.Kliknięcie opcji „Dodaj”. Zaimportowana warstwa powinna się znaleźć w oknie „Warstwy” znajdującym się po lewej stronie programu.
 
 Po zaimportowaniu warstw można sprawdzić działanie wtyczki.
+
 1.Kliknięcie ikony wtyczki znajdującej na paska narzędzi
 Chcąc obliczyć przewyższenia między 2 punktami, należy:
 - wybrać za pomocą opcji „Zaznacz obiekty” tylko 2 punkty z wybranej warstwy 
 2. Wybranie w oknie wtyczki przycisk „ Oblicz przewyższenie” 
-3. Wynik obliczeń jest widoczny w oknie znajdującym się po lewej stronie wgranej wtyczki, wynik zostaje podany w metrach.
-W przypadku zaznaczenia na warstwie większej ilości punktów w oknie „Wynik” ukazuje się komunikat „Nieprawidłowa liczba punktów! Wybierz 2 punkty!”. Jest to spowodowane faktem, że wtyczka liczy przewyższenia między tylko 2 wybranymi punktami.
+3. Wynik obliczeń jest widoczny w oknie znajdującym się po lewej stronie wgranej wtyczki, wynik zostaje podany w metrach
+  .
+W przypadku zaznaczenia na warstwie większej ilości punktów w oknie „Wynik” ukazuje się komunikat „Nieprawidłowa liczba punktów! Wybierz 2 punkty!”.
+
+Jest to spowodowane faktem, że wtyczka liczy przewyższenia między tylko 2 wybranymi punktami.
 
 W sytuacji, gdy użytkownik chce obliczyć pole powierzchni powinien:
 
@@ -78,7 +82,7 @@ W sytuacji, gdy użytkownik chce obliczyć pole powierzchni powinien:
 
 2. Wybrać za pomocą opcji „Zaznacz obiekty” minimum 3 punkty z wybranej warstwy.
    
-3.Dokonać wyboru w jakiej jednostce pola chce otrzymać wynik i zaznaczyć wybraną, możliwe opcje:
+3. Dokonać wyboru w jakiej jednostce pola chce otrzymać wynik i zaznaczyć wybraną, możliwe opcje:
 -metry kwadratowe
 -ary
 -hektary
